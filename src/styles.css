@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+div {
+  padding-right: 10px;
+  margin-left: 20px;
+}
+button {
+  padding: 15px;
+  margin: 2px;
+  border: none;
+  background-color: aquamarine;
+}
